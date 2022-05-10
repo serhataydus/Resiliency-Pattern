@@ -1,2 +1,2 @@
-# Resiliency-Pattern
+# Resiliency Pattern
 .Net Core Resiliency Pattern
